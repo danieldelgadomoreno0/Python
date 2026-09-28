@@ -1,0 +1,5 @@
+n = int(input("Dime un número entero (1-10) "))
+m = int(input("Dime un número entero (1-10) "))
+c = round(n // m)
+r = round(n % m)
+print (f"{n} entre {m} devuelve un cociente de {c} y un resto de {r}")
