@@ -1,0 +1,7 @@
+nombre_com = input("Dime tu nombre completo: ")
+nom_ma = (nombre_com.upper())
+nom_lo = (nombre_com.lower())
+nom_ti = (nombre_com.title())
+print(f"Este es tu nombre en mayuscula {nom_ma}")
+print(f"Este es tu nombre en minuscula {nom_lo}")
+print(f"Este es tu nombre en titulo {nom_ti}")
