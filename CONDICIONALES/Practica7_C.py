@@ -9,3 +9,4 @@ if renta >= 35000 and renta < 60000:
     print("30%")
 if renta >= 60000:
     print("45%")
+    
